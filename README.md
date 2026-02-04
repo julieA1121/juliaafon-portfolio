@@ -46,3 +46,7 @@ LinkedIn: https://www.linkedin.com/in/julia-afon
 ## Azure Sentinel SOC Lab
 
 ![SOC Lab](Julia_Afon_SOC_Azure_Sentinel_Lab.png)
+
+## About Me
+
+SOC Analyst with hands-on experience using Microsoft Sentinel SIEM for alert triage, log analysis, incident investigation, and vulnerability management. Passionate about security operations and continuously improving practical SOC skills.
