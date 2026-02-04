@@ -42,3 +42,7 @@ Built a hands-on SOC lab using Microsoft Azure and Sentinel to practice:
 ## 🔗 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/julia-afon
+
+## Azure Sentinel SOC Lab
+
+![SOC Lab](Julia_Afon_SOC_Azure_Sentinel_Lab.png)
